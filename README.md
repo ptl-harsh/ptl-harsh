@@ -35,7 +35,7 @@
 ## Education
   
 - Bachelor of Technology in Computer Science and Engineering
-    NIT Patna, 2022-26
+   - NIT Patna, 2022-26
 
 
 
