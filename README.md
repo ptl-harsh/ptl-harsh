@@ -27,8 +27,7 @@
    - Algorithms and Concepts: Merkle Tree, Consensus Algorithms (PoW, PoS, DPoS)
    - Blockchains: Ethereum, Binance Smart Chain
 
-   Tools and Libraries:
-   - Hardhat, Metamask, Alchemy, Remix IDE, Truffle Suite, Ganache
+   Tools and Libraries:  - Hardhat, Metamask, Alchemy, Remix IDE, Truffle Suite, Ganache
 
 
 
