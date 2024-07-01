@@ -5,7 +5,7 @@
 
 - #### Full Stack Web Development
    - Front-end: HTML, CSS, Responsive Design (Bootstrap, Flexbox Grid), Tailwind CSS , JavaScript, TypeScript, React.js, Next.js
-   - Back-end: Node.js, Express.js, RESTful APIs, Postman GraphQL
+   - Back-end: Node.js, Express.js, RESTful APIs, Postman, GraphQL
    - Databases: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
 
 - #### AI/ML
