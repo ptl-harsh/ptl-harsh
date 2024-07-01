@@ -15,7 +15,7 @@
    - Algorithms & Techniques:
       - Supervised Learning and Unsupervised Learning, Deep Learning, Neural Networks, Reinforcement Learning, Recommender Systems
       - Model Evaluation and Validation: Cross-Validation, Confusion Matrix
-   - Additional : Flask , NLP 
+   - Additional : Flask, NLP 
 
 - #### Blockchain 
 
