@@ -1,9 +1,6 @@
 ## Hi there 👋
 
 
-### Hi there!
-
-
 ## Knowledge and Interests
 
 - #### Full Stack Web Development
