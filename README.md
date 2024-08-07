@@ -33,9 +33,10 @@
 
 
 
-#### Contact
 
- - [Sent email](mailto:hvpatel.me@gmail.com)
+
+
+[Email](mailto:hvpatel.me@gmail.com)
 
 
 
