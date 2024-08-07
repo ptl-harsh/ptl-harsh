@@ -32,10 +32,12 @@
 
 
 
-## Education
-  
-- Bachelor of Technology in Computer Science and Engineering
-   - NIT Patna, 2022-26
+
+#### Contact
+
+ - [Sent email](mailto:hvpatel.me@gmail.com)
+
+
 
 
 
