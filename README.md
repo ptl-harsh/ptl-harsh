@@ -4,9 +4,7 @@
 ## Knowledge and Interests
 
 - #### Full Stack Web Development
-
 - #### AI/ML
-
 - ##### Blockchain Development
 
 
