@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## Hi there! 👋 I'm Harsh 
 
-
+![](https://komarev.com/ghpvc/?username=ptl-harsh)
 
 Passionate about technology, I specialize in **Full Stack Web Development**, **AI/ML**, and **Blockchain Development**.  
 I love building scalable applications, exploring cutting-edge technologies, and contributing to open-source projects.
