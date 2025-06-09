@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-![hii](https://komarev.com/ghpvc/?username=ptl-harsh&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=ptl-harsh)
 
 ## Knowledge and Interests
 
