@@ -43,7 +43,9 @@ Passionate about technology, I specialize in **Full Stack Web Development**, **A
 I love building scalable applications, exploring cutting-edge technologies, and contributing to open-source projects.
 
 ### 💡 What I Do:
-- 🔹 **Full Stack Web Development** – React, Node.js, Express, MongoDB, Next.js, TailwindCSS, and more.
+<!-- - 🔹 **Full Stack Web Development** – React, Node.js, Express, MongoDB, Next.js, TailwindCSS, and more. -->
+
+- 🔹 **Full Stack Development** – React.js, JavaScript (ES6+), TypeScript, Tailwind CSS, HTML5, CSS3, Node.js, Express.js, MongoDB, RESTful APIs, Linux, Git, Docker, AWS, Jest, CI/CD, and more.
 - 🔹 **AI/ML** – Deep Learning, Computer Vision, NLP, TensorFlow, PyTorch, and Data Science.
 - 🔹 **Blockchain Development** – Smart Contracts, Ethereum, Web3.js, Solidity, and Decentralized Applications (DApps).
 
